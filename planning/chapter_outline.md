@@ -13,3 +13,10 @@
 - Chapter purpose:
 - Turning point:
 - End hook:
+
+## Chapter 3
+
+- Primary POV:
+- Chapter purpose:
+- Turning point:
+- End hook:
