@@ -73,6 +73,16 @@ Ireland has been divided into zones by fallout patterns, not politics. Three nuc
 - If he ever deals with the French zone (trade, border contact, salvage routes), the northerners there are the people he'd most easily communicate with — same language, same island, different history
 - Full details in `notes/ireland--french_occupation.md`
 
+## Salvage and Sligo Trips
+
+- The art practice has a practical underside: he needs **glass**. Pre-collapse industrial glass manufacture is gone; what exists is what survives. Cottage windows, parlour mirrors, framed picture glass, cabinet glass — all irreplaceable at year 12.
+- He makes occasional sail trips north up the Atlantic coast to the **south Sligo coast** for personal-scale salvage. Specifically to the cottages of **Streamstown**, a coastal townland near Aughris Head and Ballysadare Bay. See `notes/ireland--sligo.md`.
+- Sligo is outside the Catholic network's authority — radiologically marginal, politically abandoned, untaxed. The trips are not industrial salvage runs; they are quiet, intimate visits to other people's parlours twelve years after those people left.
+- He returns with: specific glass for the practice, small framed paintings and prints he selects on aesthetic grounds, occasional devotional objects for parish trade as cover, and small garden salvage (seed, herbs, fruit). The garden detail interlocks with the parish poppy thread in `notes/substance_culture_research.md`.
+- The trips put him outside parish observation for days at a time. Whether they are officially sanctioned for cover, privately personal, or genuinely unknown to the network is a character-level question.
+- The journey itself crosses the **bar at Ballysadare Bay** (broad, shallow, sand-flat at low water, requiring high tide), or alternatively lands at **Aughris Pier** on the open Atlantic coast. The wait outside the bar — anchored in shelter, watching Knocknarea behind Strandhill and Ben Bulben distant across the bay — is one of the chapters the novel can hang on him.
+- The crew composition (Catholic-zone fishermen, a French Cork hybrid crew with northern-Irish-refugee descendants, an independent trader) is its own small political fact. A French-Cork-northern-Irish crew taking a Catholic-zone artist to Sligo is exactly the kind of cross-territorial human texture this novel wants on the page.
+
 ## Connection to Main Story
 
 - This character is likely part of (or connected to) the Irish Catholic network that contacts the collective leader
@@ -90,6 +100,10 @@ Ireland has been divided into zones by fallout patterns, not politics. Three nuc
 - What music does he play?
 - Is he connected to the Columban missionary history — descended from missionaries, or using their infrastructure?
 - Does he ever appear in person in the main novel, or only through communications and effects?
+- Bar-crossing into Ballysadare Bay or landing at Aughris Pier on the open coast? Both viable; the chapter shape differs. The bar gives a longer wait scene; Aughris gives a more exposed open-coast landing and a more direct walk in.
+- Does he know whose cottages these are? Family-name connection, childhood memory, parish-archive reference, or chosen for tactical reasons?
+- How frequent are the Sligo trips? Annual, every two or three years, or occasional and obsession-driven?
+- Are the trips known to the parish? Officially sanctioned for cover, privately personal, or genuinely unknown to the network?
 
 ## Voice and Arc
 
@@ -101,3 +115,4 @@ Ireland has been divided into zones by fallout patterns, not politics. Three nuc
 ## Scene References
 
 - Chapter.Scene - short note
+- Aughris / Streamstown chapter (slot TBD): sail trip up the west coast; approach the south Sligo coast under Knocknarea; wait outside the bar at Ballysadare Bay for high tide (or land at Aughris Pier on the open coast); ashore at Streamstown to salvage glass and small paintings from abandoned cottages; possible chapter-turn on traces of a remnant population, on the Beach Bar pub building still standing, or on Ben Bulben distant across the bay. See `notes/ireland--sligo.md`.
