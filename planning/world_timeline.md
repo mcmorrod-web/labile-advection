@@ -24,7 +24,7 @@ The prequel hints at the origin of the war without fully explaining the chain. T
   - Liverpool also suffers direct strike or catastrophic industrial contamination, adding to Northern Ireland's fallout load
 - Ireland is split by contamination into distinct zones (see `notes/ireland--fallout_research.md`):
   - **Northern Ireland**: Permanent exclusion zone (Sellafield plutonium + Liverpool fallout). Belfast, Derry abandoned. Not coming back.
-  - **East coast / Dublin**: Compromised from Irish Sea contamination and easterly wind fallout events. Dublin depopulated.
+  - **East coast / Dublin**: Compromised from Irish Sea contamination and easterly wind fallout events. Dublin depopulated. Two late pre-collapse megaprojects — the **Three Rock** vertical city in the Dublin Mountains and **Poolbeg Island** in Dublin Bay — sit empty in the contamination zone and are the highest-value (and most dangerous) salvage targets on the island. See `notes/ireland--dublin.md`.
   - **Waterford-Limerick band**: Cesium-137 contamination belt from Hinkley Point. Not farmable at 12 years; partial recovery in 30-50 years.
   - **South of the line**: Clean. Agricultural, mild, functional. One of the better places on Earth post-collapse.
   - **Irish Sea**: Dead water. No fishing. Contaminated from Sellafield waste.
@@ -80,6 +80,6 @@ The prequel hints at the origin of the war without fully explaining the chain. T
 - Irish-controlled territory reduced to Kerry, Clare, parts of Tipperary, and margins
 - The Catholic network operates from Kerry/Clare — competing with French occupation for dominance of the safe zone
 - The Columban missionary tradition (historically active in Fujian) provides the human link to China
-- Northern Ireland is a permanent exclusion zone; Dublin is a contaminated salvage site
+- Northern Ireland is a permanent exclusion zone; Dublin is a contaminated salvage site, dominated by the empty hulks of the late pre-collapse Three Rock mountain city and Poolbeg Island bay reclamation (`notes/ireland--dublin.md`)
 - **Northern refugees**: In the first year or two, 5,000–20,000 NI survivors fled south by boat down the Atlantic coast (most NI survivors crossed to Scotland instead — only 20km). The refugees heading south were disproportionately Protestant/Unionist (Catholics in NI suffered higher mortality from fallout geography; some surviving northern Catholics went to Scotland fearing exclusion). Resisted by the Catholic network in the south, they ended up in French-controlled Cork, where they've integrated over 12 years — intermarriage, hybrid community, fading sectarian identity. See `notes/ireland--french_occupation.md`
 - The Ireland character lives in the Irish-controlled zone (Kerry or Clare)

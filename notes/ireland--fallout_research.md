@@ -313,7 +313,7 @@ But illegal scavengers routinely exceed these limits. The consequence is increas
 - More like Chernobyl-level contamination in most areas
 - **Short raids (hours to a few days) are feasible with basic precautions**: don't eat or drink anything from the zone, cover skin, wash thoroughly after, avoid obviously hot spots
 - Plutonium levels lower than Northern Ireland but present near the coast
-- **What's there**: Dublin was a modern European capital. Its buildings contain:
+- **What's there**: Dublin was a modern European capital and, in its last decade, the site of two late pre-collapse megaprojects (`notes/ireland--dublin.md`). Its buildings contain:
   - Medical equipment from hospitals (Mater, St James's, Beaumont)
   - Data centre campuses (Google, Meta, Microsoft, Amazon) full of solar panels, UPS batteries, copper cable, server racks, cooling equipment
   - University labs and libraries (Trinity, UCD, DCU)
@@ -321,6 +321,8 @@ But illegal scavengers routinely exceed these limits. The consequence is increas
   - Port equipment from Dublin Port
   - Weapons and ammunition from Garda and military stores
   - Tools, vehicles, building materials
+  - **Three Rock corridor (Dublin Mountains)** — empty Chongqing-style vertical city on the southern mountain face. Lighter contamination than the coast but extreme physical danger from twelve-year-degraded high-rise. Glass at industrial volumes, cable-car and funicular drive components, corporate medical and laboratory hardware, possible sealed neural-implant inventory. Approached overland up the M50 corridor.
+  - **Poolbeg Island (Dublin Bay)** — empty 8–12 km² reclamation east of the South Bull Wall. The highest-value salvage site on the island (concentrated post-collapse-grade electrical infrastructure: hyperscale solar arrays, industrial UPS banks, fibre and copper at scale, cooling-system motors). Also the most dangerous: sea-locked, plutonium-dust-loaded, accessed by small boat from Sandymount/Ringsend.
 - **Realistic activity**: This is probably an organised, established scavenging economy by 12 years. Teams know the contamination map (learned through experience and deaths). They specialise: one team knows the hospital route, another knows the data centre sites. There are probably territorial disputes.
 
 #### Waterford-Limerick Band (Cesium Only, No Significant Plutonium)

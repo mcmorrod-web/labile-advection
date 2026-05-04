@@ -73,6 +73,16 @@ Ireland has been divided into zones by fallout patterns, not politics. Three nuc
 - If he ever deals with the French zone (trade, border contact, salvage routes), the northerners there are the people he'd most easily communicate with — same language, same island, different history
 - Full details in `notes/ireland--french_occupation.md`
 
+## Origin: The South Dublin Hills
+
+- Working default: the character is originally from the southeast Dublin coast — the villages under the **Four Hills Walk**: **Flagstaff Hill, Dalkey Hill, Killiney Hill, and Gorse Hill**. A named local circuit he grew up doing. See `notes/ireland--south_dublin_hills.md`.
+- Pre-collapse this was his everyday ground. The Four Hills were his default meaning of the word *hill* — the Flagstaff pole, the Dalkey quarry face, the Killiney Obelisk, the gorse in flower over Vico Road, the DART along the coast below, Howth across the bay.
+- He is now displaced to the Catholic safe zone in Kerry or Clare. His presence there is a survival outcome, not a birth fact. His current location is where he ended up; the south Dublin hills are where he comes from.
+- This gives his grief a location. He is not just a man missing a general pre-collapse world; he is missing a specific ground that still physically exists but cannot be walked — contaminated, depopulated, overgrown, and on the wrong side of the east-coast strip.
+- The practice of **keeping and watching old footage** of the Four Hills Walk — phone/camera clips from a domestic life, played back privately on salvaged hardware — is an extension of the glass-and-painting ritual. Both are acts of re-entering a world that no longer exists through a small mediating device (a screen, a reflective pane).
+- The possibility of a **drone flyby** tracing the Four Hills Walk from the air at year 12 is a potential set-piece. Working drones are rare post-HEMP; the flight would require a surviving shielded airframe, a salvaged Poolbeg-provenance lithium battery, a skilled operator, and a blind-flight plan without GPS. It may happen, fail, or remain an unfulfilled intention. If it happens, the new aerial footage set against the old domestic footage is a chapter. If it fails or is never attempted, the planning and the watching carry the same weight by other means.
+- Full detail, geography, operational plausibility, and attribution options in `notes/ireland--south_dublin_hills.md`.
+
 ## Salvage and Sligo Trips
 
 - The art practice has a practical underside: he needs **glass**. Pre-collapse industrial glass manufacture is gone; what exists is what survives. Cottage windows, parlour mirrors, framed picture glass, cabinet glass — all irreplaceable at year 12.

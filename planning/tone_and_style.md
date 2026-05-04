@@ -42,6 +42,14 @@ Every chapter begins with a short passage from the perspective of the equipment 
 - Predictions: subtle language that implies expectation ("consistent with model", "deviation within threshold", "parameter adjustment scheduled") — these should be faint enough to miss on first read but unmistakable on reread
 - Comparisons between collectives: a detail that only makes sense if the observer is tracking multiple populations simultaneously
 
+### Seeded Openings (specific planned passages)
+
+Some equipment openings are deliberate seeds that pay off later, read on first pass as ambient surveillance and recognised retrospectively when the later scene arrives.
+
+- **The Four Hills, from the air.** An opening passage carrying an aerial view of Flagstaff Hill, Dalkey Hill, Killiney Hill, and Gorse Hill — granite, whin, a concrete obelisk on a wooded summit, the sea, wind direction, corrosion on a metal pole, the absence of people. Unlabelled. Unattributed. Placed in a non-Ireland chapter (China or Moon) well before the Ireland flight sequence. The reader reads it as one more equipment observation. Later, when the Ireland character launches a drone over the south Dublin hills at year 12 and the storage is pulled, the reader recognises that they have already read the footage. The opening was the flight. See `notes/ireland--south_dublin_hills.md`, "Seeded chapter opening" section.
+  - Execution discipline: no tells on first read. The Killiney Obelisk is named only by form, not by name. No word "drone" or "footage" or "Ireland" in the passage. The recognition must be earned by the reader, not telegraphed.
+  - If the deeper layer is taken (drone repair knowledge arrives over the Catholic / Wuyishan radio link), then this opening is simultaneously the drone's view, the AI network's view, and the novel's surveillance voice — the recursion fuses rather than stacking.
+
 ### Tone
 
 - Early: reads like weather or landscape description — McCarthy-adjacent
@@ -172,6 +180,18 @@ Tian Hongpao's Shanghai memories are only 12 years old. She was a teenager. The 
 - Wetter, slower, more lateral than the China sections. Atlantic rhythm — longer breaths, more weather in the prose.
 - The Ireland character's internal voice (TBD, but initial direction): reflective, art-inflected, possibly more literary than Tian Hongpao's practical register. He processes the world through aesthetic categories — light, colour, composition — because of the art practice.
 - This creates a genuine voice contrast: Tian Hongpao sees machines and systems; the Ireland character sees images and patterns.
+
+### Craft Rule: Withhold the Image (Footage Scenes)
+
+The Ireland character keeps and watches pre-collapse video footage of his childhood ground (the Four Hills Walk — see `notes/ireland--south_dublin_hills.md`). Any later year-12 footage — a drone flyby if it happens, any other recovered video — is subject to the same rule:
+
+- **The content of the image on the screen is never rendered on the page.**
+- The prose describes the room around the screen — face, hands, weight of the device, speaker sound, pause, rewind, turn-off — never the image.
+- If the reader needs to know what's on a clip, they infer it from what the character does. Content of the image is always offstage.
+- Sebald's discipline: the picture is there; the text does not explain it. The reader does the looking.
+- This rule applies to every footage-watching scene in the Ireland strand and to any recovered pre-collapse video in other strands as well.
+
+The discipline protects the scene from the sentimentality traps of the before/after montage, the film-elegy register, and the tech-spectacle drone shot. Held offstage, the image retains the unbearable specificity the reader builds for themselves.
 
 ### Institutional Speech
 

@@ -26,6 +26,7 @@ The full island of Ireland divided into four contamination zones at ~12 years po
 - Width varies: roughly 20-50km inland from the coast
 - Source: Irish Sea contamination from Sellafield waste entering the water, plus direct fallout from easterly wind events
 - Dublin marked — partially evacuated, depopulated, patchy contamination depending on rainfall during fallout events
+- Two pre-collapse megaprojects sit empty inside this strip and are worth marking on a more detailed Dublin inset (see `notes/ireland--dublin.md`): the **Three Rock** vertical city on the southern face of the Dublin Mountains (Sandyford → Glencullen corridor) and **Poolbeg Island**, an 8–12 km² reclamation east of the South Bull Wall in Dublin Bay
 - Plutonium levels lower than Northern Ireland but present near the coast
 - Coastal fishing: dead (Irish Sea contaminated)
 - Some areas may be re-habitable in 30-50 years with monitoring
