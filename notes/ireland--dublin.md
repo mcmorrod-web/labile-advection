@@ -22,6 +22,12 @@ By the years immediately before the collapse, Dublin had become something it had
 
 The two corridors were the Dublin Mountains southern face (vertical) and the Dublin Bay eastward reclamation (horizontal). Together they were the late pre-collapse city's answer to having run out of buildable ground.
 
+### Blackrock and the southern-bay walls
+
+Blackrock's shoreline moved outward during the same period as the Poolbeg development. Reclaimed walls and breakwaters ran into the bay, broad enough for public walks. They stopped south of Poolbeg's shipping channel and remained part of the inhabited coastline rather than the industrial island.
+
+The Ireland artist took the DART from Dalkey to Blackrock for yoga, usually after the morning crowd. The line was maglev by then, though the old name survived. On rest days he used the sauna. He also walked the reclaimed walls before sunrise.
+
 ---
 
 ## Three Rock — The Mountain City
@@ -163,6 +169,7 @@ By year 12, the Dublin contamination economy has settled into a small set of est
 | **Poolbeg Island** | Southeast of Liffey mouth, east of South Bull Wall | Empty, sea-locked, plutonium-loaded; the highest-value and most dangerous salvage site in Ireland |
 | North Bull Island | North side of bay, between Clontarf and Howth | Untouched salt-marsh / dunes; UNESCO biosphere preserved by abandonment; uncontaminated relative to the south of the bay |
 | Sandymount, Ringsend, Irishtown | South Liffey shore, mainland side of the channel | Salvaged hard; small specialised crews here as the launch point for Poolbeg crossings |
+| Blackrock reclaimed shore and walls | Southern Dublin Bay | Pre-collapse public flood-defence walks reaching into the bay; contaminated and abandoned at year 12 |
 | Dún Laoghaire | South Dublin Bay coast | Coastal contamination; harbour silted and contaminated; some salvage |
 | South Dublin suburbs (Dundrum, Sandyford, Stepaside) | Foothills of Dublin Mountains | Lightly contaminated; depopulated; corridor used as walking approach to Three Rock |
 | **Three Rock corridor** | Southern face of Dublin Mountains, Three Rock / Two Rock / Glencullen | Empty vertical city; lighter contamination than the coast; high-value but physically dangerous salvage |

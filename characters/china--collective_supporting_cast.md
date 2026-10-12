@@ -8,13 +8,17 @@ Use this file for characters who orbit Character 01 in the opening chapters.
 - Age band in early scenes: Early teens
 - Oldest in this specific cohort: 14
 - Duty pathways: Agriculture, weapons drills, technical maintenance, and catechism-integrated schooling
+- Before the opening chapter is drafted, choose three recurring trainees. Give each a different response to Tian: one asks too many questions, one conceals mistakes, and one is good enough to make her protective and uneasy.
+- Do not introduce them as a representative cohort. Let them arrive carrying a broken component, wet field tools, an argument, or food taken from the kitchen.
 
 ## Trainers and Teachers
 
-- Field trainer: Oversees agriculture tasks and yield targets
-- Weapons instructor: Runs discipline, safety drills, and perimeter readiness
-- Technical mentor: Trains drone/robot maintenance teams and radar troubleshooting
-- School coordinator: Handles literacy, catechism, and collective-ethics curriculum drawn from the AI-generated texts
+- **Field trainer:** Patient with plants and impatient with people. Can estimate a taro yield by looking across a terrace but repeatedly forgets which trainee has already eaten.
+- **Weapons instructor:** Checks every strap and chamber twice. Dislikes careless bravado more than fear and has no interest in being admired by children.
+- **Technical mentor:** Works alongside Tian on drones, robots, and radar. Their competence should overlap enough to produce friction rather than exposition.
+- **School coordinator:** Teaches literacy, catechism, and collective ethics from the generated texts. Corrects doctrine in public; in private, keeps obsolete lesson sheets because paper is scarce.
+
+Names, ages, family ties, and loyalties remain to be chosen. These details are scene seeds, not complete personalities; each recurring adult still needs someone they protect, someone they avoid, and something they are ashamed of.
 
 ## Collective Leader
 
@@ -35,12 +39,9 @@ Use this file for characters who orbit Character 01 in the opening chapters.
 - **Secret function:** This robot is an endpoint in the hidden AI network that actually controls the mesh of collectives (see `notes/china--collective_network.md`)
 - It communicates the truth about the AI network to Tian Hongpao — possibly through anomalous codes, data fragments during maintenance, or behaviour that can only be explained by external coordination
 - Whether this disclosure is deliberate (the AI chose her) or accidental (a maintenance exposure) is ambiguous
-- Possible story functions:
-  - Gives Tian Hongpao someone to be herself around (she talks to it while doing repairs, drops her public mask)
-  - Creates a quiet loss at exile — she leaves it behind and no one else will maintain it the way she does
-  - The channel through which the book's biggest secret reaches her
-  - Could malfunction in a way that triggers or complicates her escalation toward the tribunal
-  - Echoes the Tchaikovsky influence: non-human presence treated with genuine curiosity and something like empathy
+- Around it, Tian talks through repairs, repeats complaints it cannot answer, and stops arranging her face for another person.
+- At exile she thinks first about the maintenance faults no one else knows as well as she does.
+- Any malfunction that moves her toward the tribunal must first be an ordinary repair problem. The larger secret should emerge from the physical work.
 - Name/designation: TBD (could be a serial number she has shortened into a nickname)
 
 ## Hidden System Rules (do not directly explain to reader early)
