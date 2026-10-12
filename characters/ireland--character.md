@@ -15,73 +15,33 @@
 - Plays music into the glass so his reflection appears inside the painting
 - He inserts himself into the artwork through this layered process — reflection, sound, and image fused
 - This is obsessive, private, ritualistic — not performance for an audience
-- Possible meanings:
-  - A way of entering a world that no longer exists (the paintings are pre-collapse culture)
-  - A form of communion or prayer through art rather than doctrine
-  - An attempt to prove he exists by placing himself inside something permanent
-  - A mirror of the AI inserting itself into human systems — both are placing themselves inside structures they didn't create
-  - The music may matter: what he plays, whether it changes, whether the choice is deliberate or compulsive
+- Do not settle what the practice means before it appears in scenes. His choice of print, music, duration, and the moment he stops will reveal more than an explanation.
+- It may be grief, prayer, compulsion, or pleasure on different days. It does not need a hidden technical function.
 
-## Ireland — Post-Collapse Geography
+## How He Appears on the Page
 
-### The Split
+- He handles salvaged glass by its edges and checks a room's light before deciding where to sit.
+- He is accustomed to doing private things quietly. If interrupted, he does not explain the print or turn the music off immediately.
+- He misses routines more readily than institutions: a later DART, a familiar yoga class, heat after exertion, the walk to the end of a wall before sunrise.
+- On salvage trips he chooses objects other people pass over and leaves valuable things behind when he dislikes them.
+- He knows the Catholic network keeps him alive. Gratitude does not prevent him from noticing what its protection costs other people.
+- His response to the northern refugees must emerge through a person he meets, not through a settled political opinion in this profile.
 
-Ireland has been divided into zones by fallout patterns, not politics. Three nuclear sites shape the contamination map: **Sellafield** (Cumbria), **Hinkley Point** (Somerset), and **Liverpool** (direct strike). Full research in `notes/ireland--fallout_research.md`.
+## World Around Him
 
-### Northern Ireland — Permanent Exclusion Zone
-
-- Sellafield breach released ~140 tonnes of stored plutonium and decades of nuclear waste
-- Liverpool strike added conventional fallout on top
-- Plutonium-239 half-life: 24,000 years. This is not recoverable in any human timeframe.
-- Belfast, Derry, the border counties: Abandoned permanently
-- The Irish Sea is contaminated from Sellafield waste — no fishing, no safe coastal use
-- Dublin and the east coast: Compromised, depopulated; patchy contamination from Irish Sea and easterly wind events
-
-### The Waterford-Limerick Band
-
-- Source: Hinkley Point reactor contamination crossed the Celtic Sea under northerly winds
-- Primarily Cesium-137 (half-life 30 years) — no significant plutonium
-- Ireland's wet climate and peat soils keep cesium cycling (Welsh Chernobyl precedent: 26 years of farming restrictions from distant, diluted fallout)
-- At 12 years post-event: **Not safe for farming.** Estimated 30-50 years for partial recovery in mineral soils; 50-100+ years in peat
-- Some people live in the band but cannot safely farm
-
-### Southern Ireland — Safe Zone
-
-- Kerry, Cork, Clare (south of Shannon), southern Tipperary, southwest coast: Clean
-- Mild climate, agricultural base, low density, Atlantic rainfall (clean westerly weather)
-- One of the better places on Earth post-collapse
-- The Irish Catholic institutional network survived intact — Church embedded in education, health, community
-- Base from which the Catholic connection to the Wuyishan collective operates
-- The Columban missionary tradition (historically active in Fujian) provides the human link
-
-### The Fallout Line as Story Element
-
-- Not a border anyone drew — just where the wind deposited poison
-- The line is not temporary: within the story's timeframe (~12 years post) it is effectively fixed
-- It will shift slowly over decades as cesium decays, creating a creeping habitable frontier — but too slow for any character to experience
-- People south of it live in one of the rare functioning societies on Earth
-- People north of it are gone
-- The Ireland character lives in the south — the clean side — in a rare safe zone, which makes his art practice feel less like madness and more like the rational response of someone who knows he is one of the lucky ones
-
-### Northern Refugees and French Cork
-
-- In the first years after the collapse, thousands of NI survivors fled south by boat (most went to Scotland; a smaller, disproportionately Protestant group came down the Atlantic coast)
-- The Catholic network rejected them — too many mouths, wrong denomination
-- They ended up in French-controlled Cork, where by 12 years they've integrated: intermarriage, hybrid community, children growing up French-Northern
-- The Ireland character lives in the Catholic-controlled zone (Kerry or Clare), so the northerners in French Cork are across the territorial divide — part of the "other side"
-- This is a detail he would have opinions about: the Catholic network turned away fellow Irish people, and the French took them in. Whether he sees this as pragmatic necessity, moral failure, or vindication of the network's authority says something about him
-- If he ever deals with the French zone (trade, border contact, salvage routes), the northerners there are the people he'd most easily communicate with — same language, same island, different history
-- Full details in `notes/ireland--french_occupation.md`
+- He now lives in the Catholic-controlled clean zone in Kerry or Clare, south of the Waterford–Limerick contamination band.
+- French-held Cork is the neighbouring power. Northern refugees rejected by the Catholic zone have built lives there.
+- The Irish Sea and Dublin coast are contaminated; his childhood ground remains physically present but cannot be entered safely.
+- Detailed geography belongs in `notes/ireland--fallout_research.md` and `notes/ireland--french_occupation.md`.
 
 ## Origin: The South Dublin Hills
 
 - The character is originally from **Dalkey**, on the southeast Dublin coast, beneath the **Four Hills Walk**: **Flagstaff Hill, Dalkey Hill, Killiney Hill, and Gorse Hill**. A named local circuit he grew up doing. See `notes/ireland--south_dublin_hills.md`.
 - Pre-collapse this was his everyday ground. The Four Hills were his default meaning of the word *hill* — the Flagstaff pole, the Dalkey quarry face, the Killiney Obelisk, the gorse in flower over Vico Road, the DART along the coast below, Howth across the bay.
-- His other regular route ran north to **Blackrock**. The old DART corridor had been converted to maglev by the final pre-collapse years, but people still called it the DART. He usually took a later train, after the commuter crush, to attend yoga in Blackrock. On rest days he went instead to a sauna.
-- Blackrock's shoreline had been remade by reclamation and coastal engineering. Long public walls and breakwaters reached far into the bay, carrying walking routes out over the water. He walked them for the open eastern horizon; at sunrise the walls were among the most beautiful places in the city.
-- He is now displaced to the Catholic safe zone in Kerry or Clare. His presence there is a survival outcome, not a birth fact. His current location is where he ended up; the south Dublin hills are where he comes from.
-- This gives his grief a location. He is not just a man missing a general pre-collapse world; he is missing a specific ground that still physically exists but cannot be walked — contaminated, depopulated, overgrown, and on the wrong side of the east-coast strip.
-- The practice of **keeping and watching old footage** of the Four Hills Walk — phone/camera clips from a domestic life, played back privately on salvaged hardware — is an extension of the glass-and-painting ritual. Both are acts of re-entering a world that no longer exists through a small mediating device (a screen, a reflective pane).
+- He took the DART to **Blackrock** for yoga, usually a little later to miss the crowd. It was maglev by then, though everyone still called it the DART. On rest days he used the sauna instead.
+- Blackrock's shoreline had moved outward. Reclaimed walls ran a long way into the bay, broad enough to walk. He sometimes went to the end before sunrise and watched the light come across the water.
+- He is now displaced to Kerry or Clare. Dalkey still exists, but it is contaminated, empty, and unsafe to walk.
+- He keeps old phone footage of the Four Hills and watches it privately on salvaged hardware. The prose records what he does around the screen, never what the screen shows.
 - The possibility of a **drone flyby** tracing the Four Hills Walk from the air at year 12 is a potential set-piece. Working drones are rare post-HEMP; the flight would require a surviving shielded airframe, a salvaged Poolbeg-provenance lithium battery, a skilled operator, and a blind-flight plan without GPS. It may happen, fail, or remain an unfulfilled intention. If it happens, the new aerial footage set against the old domestic footage is a chapter. If it fails or is never attempted, the planning and the watching carry the same weight by other means.
 - Full detail, geography, operational plausibility, and attribution options in `notes/ireland--south_dublin_hills.md`.
 
@@ -97,17 +57,15 @@ Ireland has been divided into zones by fallout patterns, not politics. Three nuc
 
 ## Connection to Main Story
 
-- This character is likely part of (or connected to) the Irish Catholic network that contacts the collective leader
-- The art practice may involve the same kind of AI or communication technology used by the collectives
-- The glass-and-painting ritual may be how he processes or encodes information — art as data, reflection as transmission
-- Or it may be purely personal — a man alone in a broken country, trying to feel real
+- He is connected to the Irish Catholic network that contacts the collective leader.
+- The exact work he performs for that network is unresolved.
+- Keep the art practice personal unless a scene earns a functional connection to the communications plot.
 
 ## Open Questions
 
 - Is this character a POV character? (Would give the book a third geographic anchor: Fujian, journey across China, Ireland)
 - What is his relationship to the Catholic network — leader, operative, priest, or outsider who intercepts their communications?
 - Does he know about the AI network controlling the collectives?
-- Does the art practice have a functional purpose (encoding/transmitting) or is it purely psychological?
 - What famous paintings does he use? (The choices would reveal character)
 - What music does he play?
 - Is he connected to the Columban missionary history — descended from missionaries, or using their infrastructure?
@@ -119,10 +77,15 @@ Ireland has been divided into zones by fallout patterns, not politics. Three nuc
 
 ## Voice and Arc
 
-- Voice notes: TBD
-- Public persona: TBD
-- Private truth: TBD
-- Arc target: TBD
+- What he notices first: Light on glass, composition, colour surviving in damaged rooms, the sound made by an empty building
+- Speech when comfortable: TBD, but less analytical than Tian and less institutional than the leader
+- Speech under pressure: TBD
+- Person he relaxes around: TBD
+- Person he performs for: Whoever authorises his travel or overlooks what he brings home
+- Lie he tells other people: The salvage is practical
+- Lie he tells himself: He can revisit a place without asking it to remain unchanged
+- Line he will not cross: TBD
+- Unresolved contradiction: He depends on an institution whose exclusions trouble him, while using that institution's protection to pursue intensely private work
 
 ## Scene References
 

@@ -23,12 +23,21 @@
 ## Starting Point
 
 - Starting location: Post H-bomb collective in the Wuyishan region (Fujian), centered on an old tea plantation
-- Starting emotional state: Competent but watchful; under reproductive pressure, hiding her deepest fear
-- Core desire at beginning: Keep the collective stable while protecting food systems and perimeter safety
-- Core fear at beginning: Forced pregnancy
+- Immediate concern: Get the harvest equipment and perimeter machines through another day without drawing the health office's attention
+- Pressure she cannot set aside: She has reached the collective's reproductive cutoff and fears being forced into pregnancy
 - What she does not know yet: Why she will be exiled; that her younger sibling is the one waiting near the Vietnam-Burma border
 - What she is hiding: Her sexuality (a sin-category offense under collective Catholic doctrine), her attachment to Shanghai life, and private doubts about the leader's moral authority
-- Opening scene idea: Taro harvest and kitchen prep for taro pudding dessert — tone is comfort, brief calm before the storm
+- Opening action: Taro harvest and kitchen preparation for taro pudding. She is useful, busy, and briefly at ease.
+
+## How She Appears on the Page
+
+- Trainees bring her damaged parts because she explains a mistake without making its owner feel stupid.
+- She complains about careless maintenance while already reaching for the correct tool.
+- Machinery gets her full attention. In conversation she keeps part of that attention in reserve, listening for what the other person actually wants.
+- She walks the perimeter at dusk because it is the one routine nobody can easily join without announcing that they are watching her.
+- Her breathing worsens before she admits it. She pauses over a casing or a field gate and makes the pause look like inspection.
+- Around the patrol robot she speaks in fragments, repeats herself, and leaves silences she would fill around another person.
+- Shanghai enters through small physical memories—a food smell, polished transit glass, air-conditioning on skin—not through historical explanation.
 
 ## Collective Setting Notes
 
@@ -54,11 +63,14 @@
 
 ## Voice and Arc
 
-- Voice notes: Practical, systems-minded, quietly poetic about land and memory; Shanghai flashbacks interrupt present logic
-- Public persona: Reliable maintenance supervisor who mentors trainees and gets things done
-- Private truth: Exile almost feels inevitable; the reproduction mandate is incompatible with who she is
-- Moral line she will not cross: Will not sacrifice noncombatants for security optics
-- Arc target: From local caretaker to long-range witness moving across China toward a hidden reunion
+- What she notices first: Wear, alignment, breath, weather moving over cultivated ground
+- Speech when comfortable: Brief, practical, occasionally dry; warmer with trainees than she intends
+- Speech under pressure: More exact, with each word chosen before it leaves her
+- Person she relaxes around: The patrol robot, and perhaps one trainee who has not yet learned to fear authority
+- Lie she tells other people: She only needs more time to comply with the health office
+- Lie she tells herself: Keeping the machines running can keep the rest of her life from changing
+- Moral line she will not cross: She will not sacrifice noncombatants to make the collective appear secure
+- Unresolved contradiction: She resents the collective's claim over her body while taking genuine pride in keeping the collective alive
 - Daily ritual: Walking the perimeter alone at dusk
 - Physical weakness: Chronic respiratory damage from contamination exposure
 - Key relationship with objects/non-human: Has a long-maintained humanoid patrol robot she knows intimately; one of the few places she drops her mask (see `characters/china--collective_supporting_cast.md`)
@@ -92,7 +104,7 @@
 - Threat layer: Hunter-killer robots scanning faces across the landscape; she may or may not be a target after exile
 - Core drive: Reunion with her younger sibling
 - Border contact: The younger sibling (revealed to reader later)
-- Why worth crossing China: She does not fully know yet; compulsion more than logic
+- Why she keeps moving: The possibility that her sibling is alive is the one claim on her stronger than the life she has lost
 - Journey company: Solo at first, accumulates a small group along the way
 
 ### Inter-Collective Network

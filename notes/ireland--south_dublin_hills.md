@@ -43,22 +43,17 @@ A character who grew up walking this circuit carries it as **the body's default 
 
 ## The Dalkey–Blackrock Routine
 
-The character is from **Dalkey**. Before the collapse, the hills were only one part of his ordinary geography. His recurring journey in the other direction followed the coast north to **Blackrock**:
+The character is from **Dalkey**. He took the DART north to **Blackrock** for yoga, usually a little later to miss the crowd. It was maglev by then, though everyone still called it the DART. On rest days he used the sauna instead.
 
-- By the final pre-collapse years, the DART coastal corridor had been rebuilt as an urban **maglev** line. The old name survived the technology: everyone still called it the DART.
-- He usually travelled later than the morning peak, deliberately letting the commuter crowd clear before boarding at Dalkey.
-- The purpose was habitual rather than exceptional: yoga in Blackrock. On rest days, when he did not train, he went to a sauna there instead.
-- The routine gives him a bodily map of the old city beyond the Four Hills — platform timing, the coast sliding past the carriage, the quieter late train, heat and recovery at the destination.
+Blackrock's shoreline had moved outward. Reclaimed walls and breakwaters ran a long way into Dublin Bay, broad enough to walk. He sometimes went to the end before sunrise and watched the light come across the water.
 
-Blackrock's coastline had also changed. Reclamation and flood engineering pushed a series of public walls and breakwaters well out into Dublin Bay. Their tops became long pedestrian routes over the water: exposed, linear walks with the city behind and an open eastern horizon ahead. The character went there for sunrise. Seen from the ends of those walls, first light came across the bay before it reached the streets.
-
-This is not grand tourism in his memory. Like the Four Hills, it is repeated local practice: yoga, sauna, a late DART, a walk along engineered stone and concrete to watch the day arrive. The loss is sharpened because these were places he used without thinking they would ever need to be remembered.
+Treat these as ordinary habits, not ready-made symbols. Their meaning comes from when he remembers them and what he does next.
 
 ---
 
 ## Post-Collapse Status of the Ground
 
-The four hills sit inside the east-coast contamination strip (`notes/ireland--fallout_research.md`). They are in the same zone as Dublin proper — the Irish Sea at their feet, Sellafield due east across the water, every easterly fallout event depositing onto the granite and the gorse. The hills themselves are structurally intact: they are granite, they will be granite in ten thousand years. But:
+The four hills sit inside the east-coast contamination strip (`notes/ireland--fallout_research.md`). They are in the same zone as Dublin proper—the Irish Sea at their feet, Sellafield to the northeast, every easterly fallout event depositing onto the granite and the gorse. The hills themselves are structurally intact: they are granite, they will be granite in ten thousand years. But:
 
 - Nobody lives there. The coastal strip from Sandycove through Dalkey and Killiney to Bray has been depopulated since the first year.
 - The gorse has spread. With no grazing and no path maintenance, twelve years of vegetation has closed over the circuit. Gorse Hill is more gorse than path. The link cols between the summits are barely discernible.
@@ -205,13 +200,7 @@ The footage watching could appear early — a short scene, the character alone w
 
 ## Who This Character Is
 
-Open question, flagged carefully:
-
-- **Default reading: the existing Ireland character** (`characters/ireland--character.md`). The artist. South Dublin origin, displaced to Kerry or Clare after the collapse. The Four Hills footage is private in the same way his glass-and-painting practice is private. The drone flyby, if attempted, is the outward-facing twin of the inward-facing art ritual. The two practices rhyme. This reading fills in a gap in the character file (his origin, not previously specified) and deepens the practice's meaning (he is not a general griever; he is grieving one place).
-- **Alternative: a second Ireland character, perhaps a second POV.** The novel's main strands are Ireland artist, China, Moon. A second Irish voice — specifically, someone from east-coast Dublin, displaced into the safe zone — would expand the Ireland section and give the novel a non-artist Irish viewpoint. If this is a separate character, the drone-flyby scene could be one of the ways the two Irish characters meet: the artist knows a drone operator with south-Dublin memories, or the drone operator is the artist's neighbour in Kerry, or they appear in each other's chapters around the flight.
-- **Low-probability third: a pre-collapse scene.** The footage itself could anchor a prequel passage — the filming of it — which would be a way of showing south Dublin in the last years before the war without the main novel's characters having to narrate it.
-
-I would default to the first reading and develop the second only if the novel wants more Ireland voice than the artist alone can carry.
+This is the existing Ireland artist (`characters/ireland--character.md`), now locked as being from Dalkey and displaced to Kerry or Clare. The person who operates the drone, if the flight occurs, may still become a separate character.
 
 ---
 
@@ -225,7 +214,6 @@ I would default to the first reading and develop the second only if the novel wa
 
 ## Open Questions
 
-- **Attribution.** Existing Ireland character, or a second Irish character (possibly a second POV). Default is the existing character; the alternative is genuinely open.
 - **Where in Dalkey the character lived.** The specific street or townland gives specific salvage temptation (his own house, his parent's house, a sibling's flat).
 - **The order of the walk.** Which of the four hills he started on matters — the body's default direction (Flagstaff → Dalkey → Killiney → Gorse, or reversed, or looping) is a piece of specific sense-memory.
 - **Who the other people in the footage are.** A parent, a sibling, a partner, a friend. The reader will not see them, but the character will hear them offstage, and his reactions will convey who they were. A sibling lost in the collapse rhymes with Tian Hongpao's sibling thread in the China strand.
@@ -243,7 +231,7 @@ I would default to the first reading and develop the second only if the novel wa
 
 To copy into `notes/continuity_log.md` once confirmed:
 
-- SOUTH DUBLIN ORIGIN: An Irish character (default: the existing Ireland character) grew up doing the **Four Hills Walk** on the southeast Dublin coast — **Flagstaff Hill, Dalkey Hill, Killiney Hill, Gorse Hill**. A named local circuit, the body's default landscape. He is now displaced to the Catholic safe zone in Kerry or Clare.
+- SOUTH DUBLIN ORIGIN: The Ireland artist is from **Dalkey** and grew up doing the **Four Hills Walk** on the southeast Dublin coast — **Flagstaff Hill, Dalkey Hill, Killiney Hill, Gorse Hill**. A named local circuit, the body's default landscape. He is now displaced to the Catholic safe zone in Kerry or Clare.
 - THE FOOTAGE: The character keeps pre-collapse video footage of the Four Hills Walk — phone/camera clips from a vanished domestic life — and watches it privately on salvaged playback hardware. The practice rhymes with his glass-and-painting ritual: both are acts of re-entering a world that no longer exists.
 - THE DRONE FLYBY: The character intends or attempts a drone flight tracing the Four Hills Walk from the air at year 12, to set new aerial footage against the old. Working drones are rare post-HEMP; the flight requires a surviving shielded airframe, a salvaged lithium battery (most plausibly from Poolbeg Island), a skilled operator, and a blind-flight plan without GPS. The flight may succeed, fail, or remain an unfulfilled intention across the novel.
 - CRAFT RULE — WITHHOLD THE IMAGE: The content of the pre-collapse footage and of any year-12 drone footage is never rendered on the page. The prose describes the room around the screen — face, hands, weight of device, sound, pause, rewind, turn-off — never the image itself. Sebald discipline. Applies to all footage scenes in the Ireland strand.

@@ -24,14 +24,9 @@ The two corridors were the Dublin Mountains southern face (vertical) and the Dub
 
 ### Blackrock and the southern-bay walls
 
-The coastline at Blackrock changed as part of the same late-stage pressure on Dublin Bay, though on a smaller and more public scale than Poolbeg Island:
+Blackrock's shoreline moved outward during the same period as the Poolbeg development. Reclaimed walls and breakwaters ran into the bay, broad enough for public walks. They stopped south of Poolbeg's shipping channel and remained part of the inhabited coastline rather than the industrial island.
 
-- **Reclamation and flood defence.** New coastal ground covered portions of the old tidal margin. A system of sea walls and breakwaters projected far into the bay, protecting the reclaimed edge and managing surge and sediment around the southern approaches.
-- **Walking routes.** The walls were designed with broad public tops. They became long walks out over the water rather than barriers seen only from shore, with branches and turning points extending the route.
-- **Sunrise.** Their eastward reach and unobstructed horizon made the outer walls an exceptional place to watch sunrise across the Irish Sea. The Dalkey character used them regularly after taking the coastal train north to Blackrock.
-- **The DART name survived its railway.** By this period the Dalkey–Blackrock coastal corridor operated as maglev, but the inherited DART name remained in everyday speech. The character normally travelled after the morning peak to avoid the crowd, going to Blackrock for yoga or, on rest days, a sauna.
-
-These walls are distinct from Poolbeg Island's industrial perimeter. They belong to the inhabited southern coastline and to daily civic life, while visually anticipating the much larger hard engineering farther north in the bay.
+The Ireland artist took the DART from Dalkey to Blackrock for yoga, usually after the morning crowd. The line was maglev by then, though the old name survived. On rest days he used the sauna. He also walked the reclaimed walls before sunrise.
 
 ---
 

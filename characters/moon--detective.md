@@ -13,20 +13,29 @@
 
 The detective is trying to piece together what happened on Earth after the collapse. The novel's events — Tian Hongpao's exile and journey, the Ireland character's world, the collective network, the AI's experiments — are presented as the detective's reconstruction from fragmentary data.
 
-This creates a layer of mediation: everything the reader experiences on Earth has been found, selected, and assembled by someone trying to understand it. The reader is reading the detective's investigation.
+Keep this structural function out of the detective's immediate thoughts. At work they have damaged files, uncertain timestamps, repeated signals, and other people asking whether the investigation is worth its power allocation.
 
-### What This Does to the Novel
+## How They Appear on the Page
 
-- **Distance**: The events on Earth gain the quality of something recovered — like archaeology, or a crime scene reconstruction. The reader knows someone is assembling this.
-- **The Liu Cixin question**: The detective embodies the central thematic question — humanity must overcome this catastrophic period to become something stronger. The detective is watching from above, literally and figuratively, trying to determine if it's happening. Is Earth recovering, or dying? Are the collectives an answer, or another failure?
-- **Equipment openings**: These may be data the detective is reviewing — AI sensor logs, drone footage, implant feeds, animal-perspective recordings. The "naturalist watching a species" voice gains another layer: it could be the detective's analytical notes on what the AI recorded.
-- **Reread value**: On first read, the framing is a thin frame around the Earth narrative. On reread, the detective's perspective colours everything — their selections, their emphasis, what they chose to include or omit becomes part of the meaning.
+- They replay weak signals past the point at which colleagues stop hearing a difference.
+- They label uncertainty rather than smoothing it away. Two clocks disagree; a voice may belong to three people; a place name may be obsolete.
+- They know the power cost of every search. Curiosity on the base consumes something measurable.
+- Their workstation contains one unnecessary object from Earth. Choose it only after deciding who they were before the base.
+- They are better at reconstructing strangers than speaking to the people who share their air.
+- The investigation needs one living relationship on the base: someone who interrupts, challenges the power use, brings food, or refuses to discuss Earth.
+- Their central question should first appear in practical form: whether to answer a signal, spend power tracking it, or tell the rest of the base what it contains.
+
+### Structural Use
+
+- Equipment openings may be AI sensor logs, drone footage, implant feeds, or analytical notes the detective is reviewing.
+- The selection of evidence can acquire meaning on reread, but the prose should not announce that intention.
+- Earth scenes must remain supportable by the evidence available to the frame. If the detective cannot recover a person's interior experience, the novel needs another basis for presenting it.
 
 ### How It Appears in the Text
 
-- **Prologue**: Establishes the lunar perspective. Brief. The detective at their work — reviewing data, trying to understand.
-- **Interstitial sections**: Very brief — a sentence, a paragraph, occasionally a page — between major narrative blocks. The detective's voice commenting, questioning, noting a pattern. Light touch.
-- **Epilogue**: Answers (or refuses to answer) the central question. Does the detective conclude Earth is recovering? Do they decide to go down? Do they lose the signal?
+- **Prologue**: Establishes the lunar perspective through a specific piece of work.
+- **Interstitial sections**: Very brief—a sentence, a paragraph, occasionally a page—between major narrative blocks.
+- **Epilogue**: Requires a decision rather than a thematic verdict: descend or remain, transmit or withhold, answer or continue listening.
 - **NOT a heavy presence**: The framing should be felt, not heard at length. If the reader forgets the detective for 50 pages, that's fine — the narrative should work on its own. The framing enriches; it doesn't carry.
 
 ## The Lunar Base
@@ -50,24 +59,19 @@ This creates a layer of mediation: everything the reader experiences on Earth ha
 - **Data access to the AI network**: Does the detective have access to intercepted AI data (fragmentary, corrupted, incomplete)? Or only external observation? This determines how much they know about the collectives' inner workings. A mix of partial AI data plus external observation is probably richest — enough to tantalise, not enough to explain.
 - **Communication with Earth**: Completely one-way (observation only)? Or has the base managed some contact — and if so, with whom? Contact with the Catholic network's radio? Contact with a collective? Contact with nobody, and that silence is the detective's central anguish?
 - **Base population and social dynamics**: How many people? What's the social structure? Is the detective the leader, or a specialist? Are there factions (people who want to descend vs people who think it's too dangerous)?
-- **Name, gender, age**: All TBD. The detective's identity should serve the thematic function — someone qualified to investigate, motivated to understand, and haunted by the question of whether Earth still has a future.
+- **Name, gender, age and former work**: All TBD. Choose these together so their investigative habits come from a life they actually lived rather than from the needs of the frame.
 - **Does the detective ever descend to Earth?**: If the novel's scope allows it, the detective's decision to go down (or not) could be the final beat.
-
-## Thematic Role
-
-The detective is the Liu Cixin figure in the novel: the observer at civilisational scale.
-
-- In Liu Cixin's work, the universe is indifferent and the question is whether humanity can survive its own smallness. The detective asks the same question from 384,000 kilometres away.
-- The AI is running experiments on human collectives. The detective is running their own experiment: watching Earth to see if the species can make it through.
-- The difference: the AI watches with scientific detachment. The detective watches with human need. They want Earth to survive because they are the last people who remember what it was supposed to be.
-- The deepest irony: the detective may be the most free person in the story — no AI control, no collective doctrine, no contamination, no implants. But freedom without a world to return to is its own prison.
 
 ## Voice and Arc
 
-- Voice notes: Analytical, searching, humane. Not cold. The detective processes information but is moved by what they find. Precision with warmth — Park's register, applied to investigation rather than family.
-- Public persona: TBD (depends on base social dynamics)
-- Private truth: They may already know the answer to their central question and be afraid to admit it.
-- Arc target: TBD — from investigation to judgment to decision (descend or not? Transmit what they've found or keep watching?)
+- What they notice first: Missing intervals, repeated patterns, changes in signal noise, evidence another person has handled a file
+- Speech when comfortable: TBD after the base relationship is chosen
+- Speech under pressure: Exact about evidence and evasive about why it matters to them
+- Person they relax around: TBD; this must be another member of the base, not a recording from Earth
+- Lie they tell other people: One more search will make the evidence conclusive
+- Lie they tell themselves: They are investigating Earth for the base rather than for a private need
+- Line they will not cross: TBD, preferably tested through control of information
+- Unresolved contradiction: They demand evidentiary restraint while building an increasingly personal relationship with people they know only through fragments
 
 ## Scene References
 

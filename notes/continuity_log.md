@@ -24,7 +24,7 @@ Use this file to prevent contradictions between chapters and POV switches.
 - Journey company: Solo at first, accumulates a small group
 - Collective leader: Male, older, paternal authority figure (McQuaid parallel)
 - Collective leader: Former senior CCP member being groomed for succession before the collapse
-- Leader's religion is instrumental, not spiritual — he recognised Catholicism as a viable governance framework when the Party structure collapsed
+- Leader adopted Catholicism instrumentally after the Party structure collapsed; whether twelve years of practice has produced any genuine belief remains open
 - Leader's CCP training explains the committee structures, surveillance, self-criticism, and reproduction-as-duty framing — Party reflexes in Catholic clothing
 - RESOLVED: Character 02 is Tian Hongpao's younger sibling
 - Sibling ran a BnB in Xishuangbanna (southern Yunnan) — a waystation for telecom fraud operatives working the China-Myanmar border scam compounds

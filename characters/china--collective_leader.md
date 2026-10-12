@@ -14,11 +14,20 @@
 - Educated, politically sophisticated, trained in institutional control, factional management, and ideological discipline
 - The collapse destroyed the state apparatus he was built to inherit
 - He arrived in the Wuyishan region with political skills, organisational instincts, and a power vacuum to fill
-- The CCP background explains everything about how he governs: the committee structures, the surveillance culture, the self-criticism sessions, the reproduction-as-civic-duty framing — these are Party reflexes dressed in new clothes
+- His CCP background shapes how he governs: committee structures, surveillance, self-criticism, and reproduction framed as civic duty are familiar reflexes in new clothes
 - The Irish Catholic connection and the AI-generated doctrine gave him a replacement ideology when the Party's was no longer viable
-- He is not a convert in the spiritual sense — he is a political operator who recognised that Catholicism (fused with Maoist structure) could do what the CCP used to do: organise, motivate, and control a large population
-- The tragedy: he was built for a country that no longer exists, and everything he does in the collective is an attempt to rebuild that scale of authority from scraps
-- The irony: he thinks he is the architect; the AI network is actually running him as an experimental variable
+- He first recognised Catholicism as an institution that could organise, motivate, and control a large population. Twelve years of repeating its prayers and burying its dead may have complicated that purely instrumental beginning.
+- He was trained to operate at the scale of a country. The collective is smaller, but it is the only state he has left.
+
+## How He Appears on the Page
+
+- He gives a petitioner enough time to feel heard. The decision may have been made before the person entered.
+- He remembers names, family connections, old injuries, and which child belongs to which work unit. This memory is both kindness and surveillance.
+- He rarely raises his voice. Under pressure, his sentences become shorter and acquire the cadence of Party directives.
+- He eats the public ration at public meals and notices who notices.
+- He can be patient with one frightened person while approving a policy that harms hundreds. He does not experience those acts as contradictory.
+- He does not reverse himself in public. In private he may alter implementation and allow someone else to receive the credit.
+- Prayer has become physically familiar to him even if belief remains uncertain: when tired, his hands complete gestures before he decides to make them.
 
 ## Key Influences: John Charles McQuaid + Mao Zedong (AI-synthesised)
 
@@ -93,7 +102,7 @@ The AI produces texts that fuse these traditions into a single governing scriptu
 - How did this connection form? Pre-collapse or post-collapse?
 - Is the Irish Catholic link public knowledge, secret, or semi-open?
 - Does this connection relate to Tian Hongpao's exile or journey in any way?
-- Does the leader genuinely believe, or is religion instrumental?
+- What parts of the religion, if any, has he come to believe after beginning from calculation?
 - Is the leader the ally who protects Tian Hongpao, or her antagonist, or both?
 - What is the leader's relationship to the reproduction policy — true believer or pragmatic architect?
 - Is there a McQuaid-style private hypocrisy beneath the public morality?
@@ -103,11 +112,15 @@ The AI produces texts that fuse these traditions into a single governing scriptu
 
 ## Voice and Arc
 
-- Voice notes: Measured, authoritative, fluent in doctrine but speaks it like a politician reciting policy — precise without passion; slips into CCP-cadre cadence under stress
-- Public persona: Spiritual father of the collective; calm, certain, generous with time but absolute in judgment
-- Private truth: A Party man without a Party, rebuilding the only structure he knows how to operate; religion is his tool, not his conviction; haunted by the scale of what he lost
+- What he notices first: Rank, hesitation, family resemblance, breaches in procedure
+- Speech when comfortable: Patient questions and long recollections that make the listener feel included
+- Speech under pressure: Precise, impersonal directives; old CCP-cadre cadence returns
+- Person he relaxes around: TBD — he needs someone before whom authority is unnecessary
+- Lie he tells other people: Doctrine, policy, and necessity all point to the same answer
+- Lie he tells himself: He could surrender power if the collective no longer needed him
 - Moral line: Will sacrifice individuals to preserve the system — because the system is all he has left
-- Arc target: TBD — does the novel need to expose his CCP past, or is it more powerful if only the reader knows?
+- Unresolved contradiction: His care for particular people is genuine, as is his willingness to destroy them for institutional stability
+- End-state question: Does anyone on the page learn enough about his former life to change how they understand him?
 
 ## Scene References
 

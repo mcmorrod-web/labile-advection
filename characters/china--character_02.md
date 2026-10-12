@@ -30,19 +30,26 @@
 - Location: **Tungapuri (Kengtung/Kyaingtong)**, eastern Shan State, Myanmar
 - Has been here for years — established, embedded, known locally
 - Role in Tungapuri: TBD — but likely a fixer/broker/trader, someone who connects people who need to cross borders, move goods, or make contact. The BnB role evolved into something larger.
+- Immediate concern: TBD — should be a specific person, debt, crossing, or failed message rather than a general threat to the region
 - The old telecom fraud networks have transformed into the post-collapse communication and trade infrastructure of the region
-- Starting emotional state: TBD
-- Core desire at beginning: TBD
-- Core fear at beginning: TBD
 - What they do not know yet: That Tian Hongpao is coming. That she carries knowledge of the AI network.
-- What they are hiding: TBD — but the BnB past suggests someone practiced at knowing things and pretending not to
+- What they are hiding: TBD — but it should affect an ordinary transaction before it becomes plot information
 
-## What They Bring to the Story
+## How They Appear on the Page
 
-- **A different world**: Tungapuri is not a collective. It's an old Southeast Asian crossroads city — Shan, Tai Lue, Chinese, Thai, Wa, and now whoever washed up during the collapse. A very different social and power structure from the Wuyishan collective.
-- **Criminal-turned-survival networks**: The telecom fraud infrastructure is now the communication backbone of the Golden Triangle region. Radios, couriers, armed escorts, supply lines — all repurposed.
-- **The reunion**: The emotional core of Tian Hongpao's entire journey ends here. What does it look like when two siblings who were separated by family rupture, collapse, and a decade of silence actually meet again? Are they still family, or strangers with shared blood?
-- **Route knowledge**: If the story needs characters to move between China, Myanmar, Laos, and Thailand, this character knows how.
+- They notice who entered together, who avoids looking at whom, and which visitor has rehearsed a story.
+- Years running a guesthouse taught them to offer food, ask an indirect question, and let silence do the unpleasant work.
+- They remember favours and debts more reliably than names. This is useful and sometimes cruel.
+- They answer the question behind the question. People can mistake this for intimacy.
+- Their first instinct is to negotiate, even when grief or affection would be more honest.
+- They keep some habits of hospitality after hospitality has become dangerous: a swept threshold, water put down before business, a place found for a traveller's bag.
+- Tian remembers a younger sibling. The person in Tungapuri has spent twelve years becoming someone Tian has never met.
+
+## Place Around Them
+
+- Tungapuri is not a collective. It is an old crossroads city—Shan, Tai Lue, Chinese, Thai, Wa, and people displaced during the collapse—with several kinds of authority operating at once.
+- Radios, couriers, armed escorts, safe houses, and supply caches inherited from the fraud economy now keep the region connected.
+- The sibling knows routes between China, Myanmar, Laos, and Thailand because knowing them is how they have remained useful.
 
 ## Open Questions
 
@@ -59,11 +66,15 @@
 
 ## Voice and Arc
 
-- Voice notes: TBD — should contrast distinctly with Tian Hongpao's systems-minded, poetic practicality. This character likely has a more streetwise, transactional, morally flexible voice — someone who reads people, not machines.
-- Public persona: TBD
-- Private truth: TBD
+- What they notice first: Alliances, rehearsed stories, clean shoes after bad roads, the person nobody introduces
+- Speech when comfortable: Sociable, indirect, willing to let a story grow
+- Speech under pressure: Courteous and transactional; every offer acquires a price
+- Person they relax around: TBD
+- Person they perform for: Whoever currently controls passage through Tungapuri
+- Lie they tell other people: TBD
+- Lie they tell themselves: That every obligation can eventually be settled
 - Moral line they will not cross: TBD
-- Arc target: TBD
+- Unresolved contradiction: They survived by treating relationships as exchanges, but Tian's arrival cannot be priced or repaid
 
 ## Scene References
 
