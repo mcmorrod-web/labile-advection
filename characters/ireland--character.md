@@ -75,8 +75,10 @@ Ireland has been divided into zones by fallout patterns, not politics. Three nuc
 
 ## Origin: The South Dublin Hills
 
-- Working default: the character is originally from the southeast Dublin coast — the villages under the **Four Hills Walk**: **Flagstaff Hill, Dalkey Hill, Killiney Hill, and Gorse Hill**. A named local circuit he grew up doing. See `notes/ireland--south_dublin_hills.md`.
+- The character is originally from **Dalkey**, on the southeast Dublin coast, beneath the **Four Hills Walk**: **Flagstaff Hill, Dalkey Hill, Killiney Hill, and Gorse Hill**. A named local circuit he grew up doing. See `notes/ireland--south_dublin_hills.md`.
 - Pre-collapse this was his everyday ground. The Four Hills were his default meaning of the word *hill* — the Flagstaff pole, the Dalkey quarry face, the Killiney Obelisk, the gorse in flower over Vico Road, the DART along the coast below, Howth across the bay.
+- His other regular route ran north to **Blackrock**. The old DART corridor had been converted to maglev by the final pre-collapse years, but people still called it the DART. He usually took a later train, after the commuter crush, to attend yoga in Blackrock. On rest days he went instead to a sauna.
+- Blackrock's shoreline had been remade by reclamation and coastal engineering. Long public walls and breakwaters reached far into the bay, carrying walking routes out over the water. He walked them for the open eastern horizon; at sunrise the walls were among the most beautiful places in the city.
 - He is now displaced to the Catholic safe zone in Kerry or Clare. His presence there is a survival outcome, not a birth fact. His current location is where he ended up; the south Dublin hills are where he comes from.
 - This gives his grief a location. He is not just a man missing a general pre-collapse world; he is missing a specific ground that still physically exists but cannot be walked — contaminated, depopulated, overgrown, and on the wrong side of the east-coast strip.
 - The practice of **keeping and watching old footage** of the Four Hills Walk — phone/camera clips from a domestic life, played back privately on salvaged hardware — is an extension of the glass-and-painting ritual. Both are acts of re-entering a world that no longer exists through a small mediating device (a screen, a reflective pane).

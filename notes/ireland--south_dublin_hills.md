@@ -41,6 +41,21 @@ A character who grew up walking this circuit carries it as **the body's default 
 
 ---
 
+## The Dalkey–Blackrock Routine
+
+The character is from **Dalkey**. Before the collapse, the hills were only one part of his ordinary geography. His recurring journey in the other direction followed the coast north to **Blackrock**:
+
+- By the final pre-collapse years, the DART coastal corridor had been rebuilt as an urban **maglev** line. The old name survived the technology: everyone still called it the DART.
+- He usually travelled later than the morning peak, deliberately letting the commuter crowd clear before boarding at Dalkey.
+- The purpose was habitual rather than exceptional: yoga in Blackrock. On rest days, when he did not train, he went to a sauna there instead.
+- The routine gives him a bodily map of the old city beyond the Four Hills — platform timing, the coast sliding past the carriage, the quieter late train, heat and recovery at the destination.
+
+Blackrock's coastline had also changed. Reclamation and flood engineering pushed a series of public walls and breakwaters well out into Dublin Bay. Their tops became long pedestrian routes over the water: exposed, linear walks with the city behind and an open eastern horizon ahead. The character went there for sunrise. Seen from the ends of those walls, first light came across the bay before it reached the streets.
+
+This is not grand tourism in his memory. Like the Four Hills, it is repeated local practice: yoga, sauna, a late DART, a walk along engineered stone and concrete to watch the day arrive. The loss is sharpened because these were places he used without thinking they would ever need to be remembered.
+
+---
+
 ## Post-Collapse Status of the Ground
 
 The four hills sit inside the east-coast contamination strip (`notes/ireland--fallout_research.md`). They are in the same zone as Dublin proper — the Irish Sea at their feet, Sellafield due east across the water, every easterly fallout event depositing onto the granite and the gorse. The hills themselves are structurally intact: they are granite, they will be granite in ten thousand years. But:
@@ -211,7 +226,7 @@ I would default to the first reading and develop the second only if the novel wa
 ## Open Questions
 
 - **Attribution.** Existing Ireland character, or a second Irish character (possibly a second POV). Default is the existing character; the alternative is genuinely open.
-- **Where the character is from specifically.** Killiney, Dalkey, Glenageary, Sandycove, Shankill, Bray — the coast villages under the Four Hills. The specific townland gives specific salvage temptation (his own house, his parent's house, a sibling's flat).
+- **Where in Dalkey the character lived.** The specific street or townland gives specific salvage temptation (his own house, his parent's house, a sibling's flat).
 - **The order of the walk.** Which of the four hills he started on matters — the body's default direction (Flagstaff → Dalkey → Killiney → Gorse, or reversed, or looping) is a piece of specific sense-memory.
 - **Who the other people in the footage are.** A parent, a sibling, a partner, a friend. The reader will not see them, but the character will hear them offstage, and his reactions will convey who they were. A sibling lost in the collapse rhymes with Tian Hongpao's sibling thread in the China strand.
 - **The drone's operator.** A specific person with a specific history — pre-collapse drone pilot, aerial photographer, surveyor, delivery operator — who keeps this machine alive. This person is a character in their own right if the flight becomes a chapter.

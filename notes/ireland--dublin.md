@@ -22,6 +22,17 @@ By the years immediately before the collapse, Dublin had become something it had
 
 The two corridors were the Dublin Mountains southern face (vertical) and the Dublin Bay eastward reclamation (horizontal). Together they were the late pre-collapse city's answer to having run out of buildable ground.
 
+### Blackrock and the southern-bay walls
+
+The coastline at Blackrock changed as part of the same late-stage pressure on Dublin Bay, though on a smaller and more public scale than Poolbeg Island:
+
+- **Reclamation and flood defence.** New coastal ground covered portions of the old tidal margin. A system of sea walls and breakwaters projected far into the bay, protecting the reclaimed edge and managing surge and sediment around the southern approaches.
+- **Walking routes.** The walls were designed with broad public tops. They became long walks out over the water rather than barriers seen only from shore, with branches and turning points extending the route.
+- **Sunrise.** Their eastward reach and unobstructed horizon made the outer walls an exceptional place to watch sunrise across the Irish Sea. The Dalkey character used them regularly after taking the coastal train north to Blackrock.
+- **The DART name survived its railway.** By this period the Dalkey–Blackrock coastal corridor operated as maglev, but the inherited DART name remained in everyday speech. The character normally travelled after the morning peak to avoid the crowd, going to Blackrock for yoga or, on rest days, a sauna.
+
+These walls are distinct from Poolbeg Island's industrial perimeter. They belong to the inhabited southern coastline and to daily civic life, while visually anticipating the much larger hard engineering farther north in the bay.
+
 ---
 
 ## Three Rock — The Mountain City
@@ -163,6 +174,7 @@ By year 12, the Dublin contamination economy has settled into a small set of est
 | **Poolbeg Island** | Southeast of Liffey mouth, east of South Bull Wall | Empty, sea-locked, plutonium-loaded; the highest-value and most dangerous salvage site in Ireland |
 | North Bull Island | North side of bay, between Clontarf and Howth | Untouched salt-marsh / dunes; UNESCO biosphere preserved by abandonment; uncontaminated relative to the south of the bay |
 | Sandymount, Ringsend, Irishtown | South Liffey shore, mainland side of the channel | Salvaged hard; small specialised crews here as the launch point for Poolbeg crossings |
+| Blackrock reclaimed shore and walls | Southern Dublin Bay | Pre-collapse public flood-defence walks reaching into the bay; contaminated and abandoned at year 12 |
 | Dún Laoghaire | South Dublin Bay coast | Coastal contamination; harbour silted and contaminated; some salvage |
 | South Dublin suburbs (Dundrum, Sandyford, Stepaside) | Foothills of Dublin Mountains | Lightly contaminated; depopulated; corridor used as walking approach to Three Rock |
 | **Three Rock corridor** | Southern face of Dublin Mountains, Three Rock / Two Rock / Glencullen | Empty vertical city; lighter contamination than the coast; high-value but physically dangerous salvage |
